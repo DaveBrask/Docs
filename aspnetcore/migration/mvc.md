@@ -198,5 +198,5 @@ ASP.NET Core converts unhandled exceptions in a web app into HTTP 500 error resp
 
 ## Additional resources
 
-* [Client-side development](xref:client-side/index)
-* [Tag Helpers](xref:mvc/views/tag-helpers/intro)
+* <xref:razor-components/index>
+* <xref:mvc/views/tag-helpers/intro>
